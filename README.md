@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**GioarmsCodes/GioarmsCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# GioarmCodes
+```go
+package main
+import "fmt"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main(){
+fmt.Println("Welcome🖐!")
+}
+```
+Hi everyone ,my name is Armani Riti Islam and i am a Computer Science student at Università degli Studi di Milano.
+
+- 🌱 I’m currently learning: -> Computer Science
+- 💬 Ask me about: -> Everything
+- 📫 How to reach me: -> email me @ ritiarmani.islam@studenti.unimi.it
+- ⚡ Fun fact: -> I can juggle 🤡
+
+
+## All my projects licenses
+[MIT](https://choosealicense.com/licenses/mit/)
