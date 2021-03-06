@@ -1,12 +1,12 @@
 
 
-# স্বাগত(Welcome)🙏🏻
+# 🐯স্বাগত(Welcome)👋🏽
 ```go
 package main
 import "fmt"
 
 func main(){
-fmt.Println("Welcome🖐!")
+fmt.Println("Welcome🖐🏽!")
 }
 ```
 Hi everyone ,my name is Armani Riti Islam and i am a Computer Science student at Università degli Studi di Milano.
