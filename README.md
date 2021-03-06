@@ -17,5 +17,5 @@ Hi everyone ,my name is Armani Riti Islam and i am a Computer Science student at
 - ⚡ Fun fact: -> I can juggle 🤡
 
 
-## All my projects licenses
+## All my projects license
 [MIT](https://choosealicense.com/licenses/mit/)
