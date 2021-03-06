@@ -1,6 +1,6 @@
 
 
-# नमस्ते (Namaste)🙏🏻
+# স্বাগত(Welcome)🙏🏻
 ```go
 package main
 import "fmt"
